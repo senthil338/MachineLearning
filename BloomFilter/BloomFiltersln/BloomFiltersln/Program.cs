@@ -41,7 +41,7 @@ namespace BloomFiltersln
             {
                 if(bloomfilter.Contains(find[i]))
                 {
-                    Console.WriteLine("Bloom Filter contain {0}", find[i]);
+                    Console.WriteLine("Bloom Filter may contain {0}", find[i]);
                 }
                 else
                 {
